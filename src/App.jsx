@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 import Login from './components/Login';
 import Signup from './components/Signup';
@@ -15,11 +14,7 @@ import Cart from './components/Cart';
 import Payment from './components/Payment';
 import Orders from './components/Orders';
 
-
-
 function App() {
-  const [count, setCount] = useState(0)
-  
   return (
     <>
     <Router basename="/CICD-EXP1">
