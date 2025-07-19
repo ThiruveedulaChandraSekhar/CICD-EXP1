@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://balajee-rm.github.io/S109",
+  "homepage": "https://ThiruveedulaChandraSekhar.github.io/CICD-EXP1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
